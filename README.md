@@ -42,3 +42,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/TarunKsingh2102
 [2]: https://www.linkedin.com/in/gyanprakash-/
+
+
+[![Gyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
