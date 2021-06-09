@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
+[![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanprakash0221&show_icons=true&theme=radical))](https://github.com/gyanprakash0221/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
 
