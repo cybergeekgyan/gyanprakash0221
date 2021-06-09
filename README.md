@@ -13,9 +13,6 @@
 <br />
 <br />
 
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/wave.gif" width="30px">
-
 <!---
 **gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
