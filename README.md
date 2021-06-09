@@ -22,3 +22,18 @@ Here are some ideas to get you started:
 [![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/TarunKsingh2102
+[2]: https://www.linkedin.com/in/gyanprakash-/
