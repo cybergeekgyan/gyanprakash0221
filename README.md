@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Gyan Prakash and I'm a Sophomore at NSUT
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/wave.gif" width="30px">
 
 
