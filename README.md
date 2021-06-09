@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+[![Gyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
 
 <!-- Actual text -->
 
@@ -41,6 +42,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/TarunKsingh2102
 [2]: https://www.linkedin.com/in/gyanprakash-/
-
-
-[![Gyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
