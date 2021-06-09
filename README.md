@@ -1,12 +1,24 @@
-### Hi there 👋
+### Hi there I'm [Gyan!](https://gyanprakash.tech) 👋
 
-My name is Gyan Prakash and I'm a Sophomore at NSUT
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/wave.gif" width="30px">
 
-
-<!--
+<!---
 **gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -14,11 +26,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Bioinformatics, MERN and Flutter
 - 👯 I’m looking to collaborate on Web and App Development projects
 - 🤔 I’m looking for help with CyberSecurity and MERN stack.
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
+- 📫 How to reach me: 
 
 
 [![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanprakash0221&show_icons=true&theme=radical))](https://github.com/gyanprakash0221/github-readme-stats)
