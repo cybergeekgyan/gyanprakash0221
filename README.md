@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 
 [![Gyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
 
-<!-- Actual text -->
-
+<!-- Actual text 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+-->
 
 <!-- Icons 
 
