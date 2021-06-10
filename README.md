@@ -1,13 +1,10 @@
 ### Hi there I'm [Gyan!]() 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/gyanprakash0221">
+  <img align="left" alt="Gyan Prakash | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://twitter.com/TarunKsingh2102">
+  <img align="left" alt="Gyan Prakash | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
 </a>
 
 <br />
@@ -19,7 +16,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on *Human Body Measurement Using Computer Vision*
 - 🌱 I’m currently learning Bioinformatics, MERN and Flutter
 - 👯 I’m looking to collaborate on Web and App Development projects
 - 🤔 I’m looking for help with CyberSecurity and MERN stack.
