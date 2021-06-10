@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/gyanprakash0221/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanprakash0221&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gyan's github stats" />
 </a>
