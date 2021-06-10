@@ -4,9 +4,14 @@
   <img align="left" alt="Gyan Prakash | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/TarunKsingh2102">
-  <img align="left" alt="Gyan Prakash | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
+  <img align="left" alt="Gyan' Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
 </a>
-
+<a href="https://instagram.com/tarunksingh_21">
+  <img align="left" alt="Gyan's Instagram | Instagram" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gyanprakash-/">
+  <img align="left" alt="Gyan's Linkedin | Linkedin" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/linkedin.svg" />
+</a>
 <br />
 <br />
 
