@@ -1,5 +1,18 @@
 ### Hi there I'm [Gyan!]() 👋
 
+<!---
+**gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on *Human Body Measurement Using Computer Vision*
+- 🌱 I’m currently learning Bioinformatics, MERN and Flutter
+- 👯 I’m looking to collaborate on Web and App Development projects
+- 🤔 I’m looking for help with CyberSecurity and MERN stack.
+- 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
+- 📫 How to reach me: 
+
 <a href="https://codesandbox.io/u/gyanprakash0221">
   <img align="left" alt="Gyan Prakash | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
 </a>
@@ -14,19 +27,6 @@
 </a>
 <br />
 <br />
-
-<!---
-**gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on *Human Body Measurement Using Computer Vision*
-- 🌱 I’m currently learning Bioinformatics, MERN and Flutter
-- 👯 I’m looking to collaborate on Web and App Development projects
-- 🤔 I’m looking for help with CyberSecurity and MERN stack.
-- 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
-- 📫 How to reach me: 
 
 
 ## &#x1f4c8; GitHub Stats
