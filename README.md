@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
 - 📫 How to reach me: 
 
+
+### 🌱 Challenges that I’m currently challenging myself:
+Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+
+* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
+* Read a book a week
+* Workout 3 days in a row and take a day break 
+* Avoid over usage of social media
+* Adapting the minimalism life style
+* 🔜
+
 <a href="https://codesandbox.io/u/gyanprakash0221">
   <img align="left" alt="Gyan Prakash | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
 </a>
