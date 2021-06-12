@@ -1,20 +1,21 @@
-### Hi there I'm [Gyan!]() 👋
+### Hi there I'm [Gyan!]()  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+Sophomore at Netaji Subhas University of Technology, Delhi.
 
 <!---
 **gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+#### 🤔 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Human Body Measurement Using Computer Vision*
 - 🌱 I’m currently learning Bioinformatics, MERN and Flutter
 - 👯 I’m looking to collaborate on Web and App Development projects
 - 🤔 I’m looking for help with CyberSecurity and MERN stack.
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
-- 📫 How to reach me: 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gyanprakash.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanprakash.tech@gmail.com)](mailto:gyanprakash.tech@gmail.com)
 
 
-### 🌱 Challenges that I’m currently challenging myself:
+#### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
