@@ -51,6 +51,15 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/gyanprakash0221/github-readme-stats)*
 
+
+<details>	
+  <summary><b>Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanprakash0221&hide_border=true" />
+</details>
+
+
 ## 🔧 Technologies & Tools
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -80,6 +89,24 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 ---
 
 <br/>
+
+
+
+
+<!--
+<details>	
+  <br />
+  <summary><b>My Setup</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOs 11.3.1</li>
+	    <li><b>Laptop: </b> Macbook Air M1 2020 </li>
+  	    <li><b>Browser: </b> Brave Browser</li>
+	    <li><b>Terminal: </b> Iterm + Oh My Zsh</li>
+	    <li><b>Code Editor:</b> VSCode, Sublime Text, RStudio </li>
+	    <br />
+	</ul>	
+</details>
+-->
 
 [![Gyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyanprakash0221)](https://github.com/gyanprakash0221/github-readme-stats)
 
