@@ -26,6 +26,9 @@ Sophomore at Netaji Subhas University of Technology, Delhi.
 <a href="https://www.linkedin.com/in/gyanprakash-/">
   <img align="left" alt="Gyan's Linkedin | Linkedin" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/linkedin.svg" />
 </a>
+<a href="https://dev.to/gyanprakash0221">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="GYAN PRAKASH's DEV Community Profile" height="30" width="30">
+</a>     
 <br />
 <br />
 
