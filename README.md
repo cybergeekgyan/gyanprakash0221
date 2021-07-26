@@ -1,4 +1,4 @@
-### Hi there I'm [Gyan!]()  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+### Hi there I'm [Vidhit!]()  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 Sophomore at Netaji Subhas University of Technology, Delhi.
 
 <!---
